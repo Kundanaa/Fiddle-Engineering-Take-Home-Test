@@ -140,7 +140,7 @@ Add env variable in Vercel dashboard:
 
 ```ini
 
-VITE_API_URL=https://tone-picker-backend.onrender.com/api
+VITE_API_URL= https://fiddle-engineering-take-home-test.onrender.com/api
 ```
 
 Deploy → you’ll get https://tone-picker.vercel.app
