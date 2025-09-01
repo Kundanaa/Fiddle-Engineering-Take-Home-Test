@@ -5,7 +5,7 @@ import axios from "axios";
 import crypto from "crypto";
 import { cache } from "./cache.js";
 import { ToneRequest, ToneResponse } from "./types.js";
-import { MistralClient } from "@mistralai/mistralai";
+
 dotenv.config();
 const app = express();
 app.use(express.json({ limit: "1mb" }));
