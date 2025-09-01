@@ -124,7 +124,7 @@ Start Command:
 npm start
 ```
 
-Render gives you a live API URL → e.g. https://tone-picker-backend.onrender.com
+Render gives you a live API URL → e.g. https://fiddle-engineering-take-home-test.onrender.com
 
 🔹 Frontend (Client)
 You can host the React client on:
