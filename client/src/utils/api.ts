@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:8787/api", // 👈 server endpoint
+  baseURL: "https://fiddle-engineering-take-home-test.onrender.com/api", // 👈 server endpoint
 });
 
 export async function changeTone(text: string, row: number, col: number) {
